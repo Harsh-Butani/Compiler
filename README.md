@@ -12,7 +12,7 @@ The language is strongly type and supports features such as:
 
 - Dynamic type checking.
 
-  The language specifications can be found [here](https://github.com/Harsh-Butani/Compiler/blob/main/Languagespecifications.pdf)
+  The language specifications can be found [here](https://github.com/Harsh-Butani/Compiler/blob/main/Language specifications.pdf)
   
 <p align = "center">
 	<img src = "assets/intro.gif">
